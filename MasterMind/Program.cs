@@ -15,10 +15,7 @@ worden beëindigd door het invoeren van een q; alle andere invoer moet ofwel cor
 verzameling voorkomen), ofwel resulteren in opnieuw bevragen van de gebruiker
 
 TO DO:
-- V create highscore List, top 5 from allPlayers list
-- V appoint score to player
-- V check amount of particapants
-- why does AgeCheck(playerAge) give error? (line 45 in GetPlayerDetails())
+- why does AgeCheck(playerAge) give error? (line 42 in GetPlayerDetails())
 - make subclasses and interfaces for different age groups
 - create friend groups
 */
